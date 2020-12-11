@@ -1,6 +1,6 @@
 ---
-title: "FDND Net Presence"          # Same as repo name but with spaces and caps 
-description: "short description"    # Max. 280 characters in description
+title: "FDND Visitekaartje"         # Same as repo name but with spaces and caps 
+description: "Je bestudeert een uitgewerkt visitekaartje en bekijkt daarbinnen de semantiek in de HTML, de opmaak in CSS en de functionaliteit in Javascript."    # Max. 280 characters in description
 semester: 1                         # Please choose only one semester
 sprint: 1                           # Please choose only one sprint
 support-level: 1                    # 1:example 2:duplicate 3:experiment 4:extension 5:autonomous
@@ -12,9 +12,9 @@ behavior-criteria:                  # These criteria determine the skill level o
   communicating: 0                  # (data driven), 5-6 for tasks in semester 3 (wtf?!).
 collaborators: 1                    # How big is the team with wich to adress this task.
 tags:                               # tags can be used to categorize tasks, can be anything
-  - semantics                                        
+  - semantiek                                        
   - responsive design
-  - ui-interactions
+  - ui-interacties
   - html
   - css
   - javascript
