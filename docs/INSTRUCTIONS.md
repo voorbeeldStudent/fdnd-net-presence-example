@@ -13,7 +13,28 @@ Bestudeer aan de hand van onderstaande stappen (bij werkwijze) de structuur, de 
 Na het volgen van deze opdracht heb je een beginnend idee van het samenspel tussen HTML (voor de structuur), CSS (voor de vormgeving) en Javascript (voor de interactie) bij het maken van een eenvoudig online visitekaartje.
 
 ## Materiaal
-Bronnen en resources (artikelen, video's, visuals, talks, posters, etc)
+Hieronder vind je een aantal bronnen en resources die je kunt gebruiken bij het grip krijgen op de in dit voorbeeld gebruikte principes.
+
+
+## HyperText Markup Language (HTML)
+- [Overzicht van HTML elemeneten @ MDN](https://developer.mozilla.org/nl/docs/Web/HTML/Element)
+
+## Cascading StyleSheets (CSS)
+- [CSS Almanac @ CSS-tricks](https://css-tricks.com/almanac/)
+- [A Guide to flexbox @ CSS-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbox](https://flexbox.io/)
+- [Typografie](https://www.youtube.com/watch?v=RNakAX3rVVw)
+- [Typografie](https://css-tricks.com/typography-for-developers/)
+- [Animeren in css](https://www.youtube.com/watch?v=HZHHBwzmJLk&feature=youtu.be)
+
+## Javascript
+- [JavaScript](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
+
+
+
+
+
+
 
 ## Werkwijze
 
