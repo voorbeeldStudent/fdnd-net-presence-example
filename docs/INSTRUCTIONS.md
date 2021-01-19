@@ -1,3 +1,5 @@
+![Visitekaartje](VisitekaartjeChrome.png "Visitekaartje")
+
 # Net Presence
 Je bestudeert een uitgewerkt visitekaartje en bekijkt daarbinnen de semantiek in de HTML, de opmaak in CSS en de functionaliteit in Javascript.
 
