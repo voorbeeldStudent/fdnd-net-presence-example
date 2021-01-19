@@ -17,22 +17,19 @@ Hieronder vind je een aantal bronnen en resources die je kunt gebruiken bij het 
 
 
 ## HyperText Markup Language (HTML)
-- [Overzicht van HTML elemeneten @ MDN](https://developer.mozilla.org/nl/docs/Web/HTML/Element)
+- [HTML semantics](https://www.youtube.com/watch?v=91l1MHPEIeY)
+- [Overzicht van HTML elementen @ MDN](https://developer.mozilla.org/nl/docs/Web/HTML/Element)
 
 ## Cascading StyleSheets (CSS)
 - [CSS Almanac @ CSS-tricks](https://css-tricks.com/almanac/)
 - [A Guide to flexbox @ CSS-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Flexbox](https://flexbox.io/)
-- [Typografie](https://www.youtube.com/watch?v=RNakAX3rVVw)
-- [Typografie](https://css-tricks.com/typography-for-developers/)
-- [Animeren in css](https://www.youtube.com/watch?v=HZHHBwzmJLk&feature=youtu.be)
+- [What the flexbox? @ Wes Bos](https://flexbox.io/)
+- [CSS Typography - Change Font, Size, Spacing & more @ YouTube](https://www.youtube.com/watch?v=RNakAX3rVVw)
+- [Typography for Developers @ CSS-tricks](https://css-tricks.com/typography-for-developers/)
+- [CSS Animation in 100 Seconds @ YouTube](https://www.youtube.com/watch?v=HZHHBwzmJLk&feature=youtu.be)
 
 ## Javascript
-- [JavaScript](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
-
-
-
-
+- [One thing about JavaScript @ CSS-tricks](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
 
 
 
