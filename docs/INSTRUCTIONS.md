@@ -17,7 +17,7 @@ Hieronder vind je een aantal bronnen en resources die je kunt gebruiken bij het 
 
 
 ## HyperText Markup Language (HTML)
-- [HTML semantics](https://www.youtube.com/watch?v=91l1MHPEIeY)
+- [HTML semantics @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
 - [Overzicht van HTML elementen @ MDN](https://developer.mozilla.org/nl/docs/Web/HTML/Element)
 
 ## Cascading StyleSheets (CSS)
@@ -31,6 +31,7 @@ Hieronder vind je een aantal bronnen en resources die je kunt gebruiken bij het 
 ## Javascript
 - [One thing about JavaScript @ CSS-tricks](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
 
+## Kleuren
 
 
 ## Werkwijze
