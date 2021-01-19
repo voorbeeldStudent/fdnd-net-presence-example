@@ -16,7 +16,7 @@ Na het volgen van deze opdracht heb je een beginnend idee van het samenspel tuss
 Hieronder vind je een aantal bronnen en resources die je kunt gebruiken bij het grip krijgen op de in dit voorbeeld gebruikte principes.
 
 ## Kleur en beeld
-Welke icoontjes gebruikt Jane, welke kleuren, welke foto. Wat wil ze daar mee overdragen. First impressions etc.
+TODO: Welke icoontjes gebruikt Jane, welke kleuren, welke foto. Wat wil ze daar mee overdragen. First impressions etc.
 
 ## HyperText Markup Language (HTML)
 - [HTML semantics @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
@@ -28,15 +28,32 @@ Welke icoontjes gebruikt Jane, welke kleuren, welke foto. Wat wil ze daar mee ov
 - [What the flexbox? @ Wes Bos](https://flexbox.io/)
 - [CSS Typography - Change Font, Size, Spacing & more @ YouTube](https://www.youtube.com/watch?v=RNakAX3rVVw)
 - [Typography for Developers @ CSS-tricks](https://css-tricks.com/typography-for-developers/)
-- [CSS Animation in 100 Seconds @ YouTube](https://www.youtube.com/watch?v=HZHHBwzmJLk&feature=youtu.be)
+- [CSS Transitions and Animations 101 @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
 
 ## Javascript
 - [One thing about JavaScript @ CSS-tricks](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
 
-## Werkwijze
+## Tools
+- [Chrome Dev Tools Elements Tab @ YouTube](https://www.youtube.com/watch?v=Z3HGJsNLQ1E)
 
-Instructies over hoe te werk gaan, verder uitgewerkt in [Stappenplan](todo.md)  
-(In meer of mindere mate sturing afhankelijk van het niveau van de taak)
+## Werkwijze
+Dit is een *voorbeeld* taak wat inhoudt dat je een afgerond visitekaartje bestudeerd zonder zelf iets te maken. Maak voor jezelf aantekeningen van dingen die je opvallen of dingen die je voor je eigen visitekaartje wilt gebruiken, in de volgende leertaak ga je namelijk je eigen visitekaartje maken.
+
+1. Kijk naar de kleur/typografie etc. 
+- Wat valt je op?
+- Welke kleuren heeft Jane gebruikt?
+2. Bekijk de HTML met de Chrome Devtools Element Tab.
+- Welk HTML element staat om het visitekaartje heen?
+- In welk HTML element staat de naam 'Jane Doe'?
+- 
+3. Bekijk de CSS met de Chrome Devtools Element Tab.
+- Hoe maak je afgeronde hoekjes met CSS?
+- Hoe maak je een schaduw met CSS?
+- Hoe maak je een kleurverloop (gradient) met CSS?
+4. Bekijk de Javascript door [het bestand in Github te openen](link).
+- 
+-
+-
 
 ## Criteria
 Definitions of done
