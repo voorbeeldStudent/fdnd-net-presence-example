@@ -15,6 +15,8 @@ Na het volgen van deze opdracht heb je een beginnend idee van het samenspel tuss
 ## Materiaal
 Hieronder vind je een aantal bronnen en resources die je kunt gebruiken bij het grip krijgen op de in dit voorbeeld gebruikte principes.
 
+## Kleur en beeld
+Welke icoontjes gebruikt Jane, welke kleuren, welke foto. Wat wil ze daar mee overdragen. First impressions etc.
 
 ## HyperText Markup Language (HTML)
 - [HTML semantics @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
@@ -30,9 +32,6 @@ Hieronder vind je een aantal bronnen en resources die je kunt gebruiken bij het 
 
 ## Javascript
 - [One thing about JavaScript @ CSS-tricks](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
-
-## Kleuren
-
 
 ## Werkwijze
 
