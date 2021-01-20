@@ -64,7 +64,7 @@ Deze taak heeft niveau a - example.
 
 |  | Niveau | Beschrijving |
 |:---|:---|:---|
-| a | Example | Uitgewerkt voorbeeld dat veelal in een _talk_ uitgelegd wordt. |
+| *a* | *Example* | *Uitgewerkt voorbeeld dat veelal in een _talk_ uitgelegd wordt.* |
 | b | Duplicate | Een immitatietaak waarbij je op basis van het voorbeeld een eigen versie in jouw github profiel maakt. |
 | c | Experiment | Een taak in het verlengde van het voorbeeld en duplicaat waarbij je aan de hand van een aantal bronnen een experiment uitvoert en zo écht een eigen versie maakt. |
 | d | Extension | Aanvultaak |
