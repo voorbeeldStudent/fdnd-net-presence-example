@@ -60,7 +60,8 @@ Definitions of done
 
 ## Niveau van deze taak
 
-
+| # | Niveau | Beschrijving |
+|---|---|---|
 | a | Example | Uitgewerkt voorbeeld |
 | b | Duplicate | Immitatietaak |
 | c | Experiment | Taak zonder een specifiek doel |
