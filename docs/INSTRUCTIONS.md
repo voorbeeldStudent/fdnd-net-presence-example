@@ -59,11 +59,11 @@ Dit is een *voorbeeld* taak wat inhoudt dat je een afgerond visitekaartje bestud
 Definitions of done
 
 ## Niveau van deze taak
+
 | **a** | **Example** | **Uitgewerkt voorbeeld** |
 | b | Duplicate | Immitatietaak |
 | c | Experiment | Taak zonder een specifiek doel |
 | d | Extension | Aanvultaak |
 | e | Autonomous | Taak zonder ondersteuning |
-```
 
 
