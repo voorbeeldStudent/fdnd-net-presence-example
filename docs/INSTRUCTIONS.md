@@ -50,10 +50,12 @@ Dit is een *voorbeeld* taak wat inhoudt dat je een afgerond visitekaartje bestud
 - Hoe maak je afgeronde hoekjes met CSS?
 - Hoe maak je een schaduw met CSS?
 - Hoe maak je een kleurverloop (gradient) met CSS?
-4. Bekijk de Javascript door [het bestand in Github te openen](../scripts/script.js).
-- 
--
--
+4. Bekijk de Javascript door [het bestand in Github te openen](../scripts/script.js) en zoek de betekenis op van onderstaande termen:
+- ```document```
+- ```querySelector```
+- ```function```
+- ```const```
+- ```classList```
 
 ## Criteria
 Definitions of done
