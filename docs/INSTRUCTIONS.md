@@ -39,6 +39,17 @@ TODO: Welke icoontjes gebruikt Jane, welke kleuren, welke foto. Wat wil ze daar 
 ## Werkwijze
 Dit is een *voorbeeld* taak wat inhoudt dat je een afgerond visitekaartje bestudeerd zonder zelf iets te maken. Maak voor jezelf aantekeningen van dingen die je opvallen of dingen die je voor je eigen visitekaartje wilt gebruiken, in de volgende leertaak ga je namelijk je eigen visitekaartje maken.
 
+### Analyseren
+De auteur van het visitekaartje heeft onderzocht welke kleur en typografie 
+
+### Ontwerpen
+
+### Bouwen
+
+### Integreren
+
+### Testen
+
 1. Kijk naar de kleur/typografie etc. 
 - Wat valt je op?
 - Welke kleuren heeft Jane gebruikt?
@@ -50,12 +61,19 @@ Dit is een *voorbeeld* taak wat inhoudt dat je een afgerond visitekaartje bestud
 - Hoe maak je afgeronde hoekjes met CSS?
 - Hoe maak je een schaduw met CSS?
 - Hoe maak je een kleurverloop (gradient) met CSS?
+<<<<<<< Updated upstream
 4. Bekijk de Javascript door [het bestand in Github te openen](../scripts/script.js) en zoek de betekenis op van onderstaande termen:
 - ```document```
 - ```querySelector```
 - ```function```
 - ```const```
 - ```classList```
+=======
+4. Bekijk de Javascript door [het bestand in Github te openen](../scripts/script.js).
+- 
+- 
+- 
+>>>>>>> Stashed changes
 
 ## Criteria
 Definitions of done
