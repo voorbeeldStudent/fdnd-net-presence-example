@@ -42,6 +42,26 @@ Dit is een *voorbeeld* taak wat inhoudt dat je een afgerond visitekaartje bestud
 ### Analyseren
 De auteur van het visitekaartje heeft onderzocht welke kleur en typografie 
 
+1. Kijk naar de kleur/typografie etc. 
+- Wat valt je op?
+- Welke kleuren heeft Jane gebruikt?
+
+2. Bekijk de HTML met de Chrome Devtools Element Tab.
+- Welk HTML element staat om het visitekaartje heen?
+- In welk HTML element staat de naam 'Jane Doe'?
+ 
+3. Bekijk de CSS met de Chrome Devtools Element Tab.
+- Hoe maak je afgeronde hoekjes met CSS?
+- Hoe maak je een schaduw met CSS?
+- Hoe maak je een kleurverloop (gradient) met CSS?
+
+4. Bekijk de Javascript door [het bestand in Github te openen](../scripts/script.js) en zoek de betekenis op van onderstaande termen:
+- ```document```
+- ```querySelector```
+- ```function```
+- ```const```
+- ```classList```
+
 ### Ontwerpen
 
 ### Bouwen
@@ -49,31 +69,6 @@ De auteur van het visitekaartje heeft onderzocht welke kleur en typografie
 ### Integreren
 
 ### Testen
-
-1. Kijk naar de kleur/typografie etc. 
-- Wat valt je op?
-- Welke kleuren heeft Jane gebruikt?
-2. Bekijk de HTML met de Chrome Devtools Element Tab.
-- Welk HTML element staat om het visitekaartje heen?
-- In welk HTML element staat de naam 'Jane Doe'?
-- 
-3. Bekijk de CSS met de Chrome Devtools Element Tab.
-- Hoe maak je afgeronde hoekjes met CSS?
-- Hoe maak je een schaduw met CSS?
-- Hoe maak je een kleurverloop (gradient) met CSS?
-<<<<<<< Updated upstream
-4. Bekijk de Javascript door [het bestand in Github te openen](../scripts/script.js) en zoek de betekenis op van onderstaande termen:
-- ```document```
-- ```querySelector```
-- ```function```
-- ```const```
-- ```classList```
-=======
-4. Bekijk de Javascript door [het bestand in Github te openen](../scripts/script.js).
-- 
-- 
-- 
->>>>>>> Stashed changes
 
 ## Criteria
 Definitions of done
