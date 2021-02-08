@@ -20,7 +20,7 @@ Hieronder vind je een aantal bronnen die je kunt gebruiken bij het grip krijgen 
 ## Kleur en beeld
 - [The psychology of color in web design @ 99designs](https://en.99designs.nl/blog/creative-inspiration/psychology-color-web-design/)
 - [Web design color theory @ TNW](https://thenextweb.com/dd/2015/04/07/how-to-create-the-right-emotions-with-color-in-web-design/)
-- [How to use images more effectively in web design](https://www.creativebloq.com/inspiration/how-to-use-images-more-effectively-in-web-design)
+- [How to use images more effectively in web design @ CreativeBloq](https://www.creativebloq.com/inspiration/how-to-use-images-more-effectively-in-web-design)
 - [Unsplash](https://unsplash.com/)
 - [Icons in web design @ Medium](https://medium.com/outcrowd/icons-in-web-design-824f57cb2db0)
 
@@ -46,7 +46,7 @@ Hieronder vind je een aantal bronnen die je kunt gebruiken bij het grip krijgen 
 Dit is een *voorbeeld* taak wat inhoudt dat je een afgerond visitekaartje bestudeerd zonder zelf iets te maken. Maak voor jezelf aantekeningen van dingen die je opvallen of dingen die je voor je eigen visitekaartje wilt gebruiken, in de volgende leertaak ga je namelijk je eigen visitekaartje maken.
 
 ### Analyseren
-De analysefase is bij deze leertaak het meest prominent. Bestudeer aan de hand van onderstaand stappenplan de wijze waarop Jane dit visitekaartje gemaakt heeft.
+Deze taak beslaat alleen een analysefase omdat het voorbeeld al is uitgewerkt. Bestudeer aan de hand van onderstaand stappenplan de wijze waarop Jane dit visitekaartje gemaakt heeft. Als je het prettig vindt kan je de antwoorden in de [README.md](../README.md) opnemen. 
 
 1. Kijk naar de kleur, typografie en beeldgebruik.
 - Wat valt je op?
