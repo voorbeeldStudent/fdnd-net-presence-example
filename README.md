@@ -13,9 +13,6 @@ In dit bestand geef ik antwoord op de vragen die tijdens de talk gesteld en klas
 - [Visitekaartje van Jane](#visitekaartje-van-jane)
   * [Description](#description)
   * [Features](#features)
-  * [Installation](#installation)
-  * [Sources](#sources)
-  * [License](#license)
 
 ## Features
 
@@ -43,15 +40,3 @@ querySelector
 function
 const
 classList
-
-## Installation
-Uitleg over aanzetten van gh-pages op een repo
-
-## Sources
-herhaling van de bronnen uit de opdracht
-
-## License
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
