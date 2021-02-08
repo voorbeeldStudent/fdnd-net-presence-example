@@ -35,8 +35,13 @@ Schaduw kan je maken met behulp van`box-shadow` maar die vind ik nog best ingewi
 Een kleurverloop heet in het engels een gradient en in CSS kan je met `background: linear-gradient();` een gradient instellen. Je stelt de richting en een paar kleuren in: `linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%)`.
 
 4. Bekijk de Javascript door het bestand in Github te openen en zoek de betekenis op van onderstaande termen:
-document
-querySelector
-function
-const
-classList
+
+Volgens de website van MDN is `document` een interface die een ingang biedt naar de inhoud van een webpagina die is opgebouwd in de DOM tree.
+
+`querySelector` is een methode van `document` waarmee een HTML element opgezocht kan worden.
+
+In javascript wordt een `function` gebruikt om met een eigen verzonnen woord meerdere regels code uitvoeren.
+
+Een `const` is een constante, een waarde die vast staat en niet veranderd kan worden.
+
+Elk HTML element heeft een `classList` waarin alles CSS classes staan.
