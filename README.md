@@ -1,16 +1,16 @@
 # Visitekaartje van Jane
 Mijn aantekeningen bij de talk over het visitekaartje!
 
-## Beschrijving
+## Description
 Hieronder ziet u een screenshot van het visitekaartje van Jane. Dit voorbeeld is tijdens een talk getoond.
 
 ![Visitekaartje](./docs/VisitekaartjeChrome.png "Visitekaartje")
 
 In dit bestand geef ik antwoord op de vragen die tijdens de talk gesteld en klassikaal besproken zijn.
 
-## Inhoudsopgave
+## Table of Contents
 
-- [Titel](#titel)
+- [Visitekaartje van Jane](#Visitekaartje)
   * [Description](#description)
   * [Features](#features)
   * [Installation](#installation)
