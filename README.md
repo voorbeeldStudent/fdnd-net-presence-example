@@ -21,18 +21,23 @@ In dit bestand geef ik antwoord op de vragen die tijdens de talk gesteld en klas
 
 1. Kijk naar de kleur, typografie en beeldgebruik.
 
-Wat mij opvalt is dat Jane blauwtinten gebruikt in haar kaartje. Blauw wordt gekoppeld met competentie, kwaliteit, kalmte, wijsheid, productiviteit, vertrouwen en veiligheid. De felle kleur aan de onderkant wordt ook wel gekoppeld met frisheid of energie. 
+Wat mij opvalt is dat Jane blauwtinten gebruikt in haar kaartje. Blauw wordt gekoppeld met competentie, kwaliteit, kalmte, wijsheid, productiviteit, vertrouwen en veiligheid. Blauw is ook een mannelijke kleur, misschien dat Jane dit expres gekozen heeft omdat de Frontend wereld best mannelijk gericht is. De felle kleur aan de onderkant wordt ook wel gekoppeld met frisheid of energie.
 
-Wat voor afbeelding gebruikt ze?
+In de afbeelding zit Jane achter haar laptop, ik denk dat ze het beeld probeert te geven dat ze heel serieus is. Ze heeft haar makeup netjes gedaan en er zitten github stickers op haar laptop (die zie je alleen als je het plaatje even apart opent). Naast de afbeelding zijn er ook unicode icoontjes van een beker gebruikt, de beker staat voor winnen en ik denk dat ze de aandacht wil trekken om te laten zien dat ze goed is in bepaalde dingen. De bekers geven haar niveau van HTML, CSS en Javascript aan, ze laat zich dus echt zien als frontender.
 
 2. Bekijk de HTML met de Chrome Devtools Element Tab.
-Welk HTML element staat om het visitekaartje heen?
-In welk HTML element staat de naam 'Jane Doe'?
-Bekijk de CSS met de Chrome Devtools Element Tab.
-Hoe maak je afgeronde hoekjes met CSS?
-Hoe maak je een schaduw met CSS?
-Hoe maak je een kleurverloop (gradient) met CSS?
-Bekijk de Javascript door het bestand in Github te openen en zoek de betekenis op van onderstaande termen:
+
+Om het visitekaartje heen staat een `<article>` element, dit element is bedoeld om een onafhankelijk onderdeel van een pagina in op te maken. Haar naam, 'Jane Doe', staat in een `<h1>` element in een `<header>` element, dit geeft aan dat dit de koptekst van een artikel is.
+ 
+3. Bekijk de CSS met de Chrome Devtools Element Tab.
+
+Afgeronde hoekjes kan je maken met behulp van `border-radius`, je geeft een waarde mee voor de grootte van de afronding. 
+
+Schaduw kan je maken met behulp van`box-shadow` maar die vind ik nog best ingewikkeld omdat er erg veel dingen meegegeven moeten worden, CSS-tricks zegt: `box-shadow: [horizontal offset] [vertical offset] [blur radius] [optional spread radius] [color];`. Hier moet ik nog vaker naar kijken voor ik het snap.
+
+Een kleurverloop heet in het engels een gradient en in CSS kan je met `background: linear-gradient();` een gradient instellen. Je stelt de richting en een paar kleuren in: `linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%)`.
+
+4. Bekijk de Javascript door het bestand in Github te openen en zoek de betekenis op van onderstaande termen:
 document
 querySelector
 function
