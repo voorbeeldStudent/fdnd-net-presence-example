@@ -1,5 +1,5 @@
 # Visitekaartje van Jane
-Mijn aantekeningen bij de talk over het visitekaartje!
+Mijn aantekeningen bij de talk over het visitekaartje en antwoord op de vragen (bij [Features](#features))
 
 ## Description
 Hieronder ziet u een screenshot van het visitekaartje van Jane. Dit voorbeeld is tijdens een talk getoond.
@@ -20,6 +20,7 @@ In dit bestand geef ik antwoord op de vragen die tijdens de talk gesteld en klas
 ## Features
 
 1. Kijk naar de kleur, typografie en beeldgebruik.
+
 Wat mij opvalt is dat Jane blauwtinten gebruikt in haar kaartje. Blauw wordt gekoppeld met competentie, kwaliteit, kalmte, wijsheid, productiviteit, vertrouwen en veiligheid. De felle kleur aan de onderkant wordt ook wel gekoppeld met frisheid of energie. 
 
 Wat voor afbeelding gebruikt ze?
