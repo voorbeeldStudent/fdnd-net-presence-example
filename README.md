@@ -1,5 +1,5 @@
 # Visitekaartje van Jane
-Mijn aantekeningen bij de talk over het visitekaartje en antwoord op de vragen (bij [Features](#features))
+Mijn aantekeningen bij de talk over het visitekaartje en [antwoord op de vragen](#antwoord-op-de-vragen)).
 
 ## Beschrijving
 Hieronder ziet u een screenshot van het visitekaartje van Jane. Dit voorbeeld is tijdens een talk getoond.
